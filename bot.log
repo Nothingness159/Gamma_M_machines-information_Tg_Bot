@@ -1174,3 +1174,30 @@ inline_keyboard
 2025-02-06 12:16:39,334 - INFO - Update id=619412519 is handled. Duration 156 ms by bot id=7735807460
 2025-02-06 12:16:40,307 - INFO - Update id=619412520 is handled. Duration 203 ms by bot id=7735807460
 2025-02-06 12:16:41,136 - INFO - Update id=619412521 is handled. Duration 218 ms by bot id=7735807460
+2025-02-06 12:20:28,719 - INFO - Start polling
+2025-02-06 12:20:28,950 - INFO - Run polling for bot @Gamma_M_machines_information_Bot id=7735807460 - 'Gamma_M information about the machines'
+2025-02-06 12:20:29,923 - INFO - Пользователь 857663686 начал работу.
+2025-02-06 12:20:29,924 - INFO - Update id=619412523 is handled. Duration 875 ms by bot id=7735807460
+2025-02-06 12:20:29,931 - INFO - Пользователь 857663686 начал работу.
+2025-02-06 12:20:29,931 - INFO - Update id=619412524 is handled. Duration 891 ms by bot id=7735807460
+2025-02-06 12:20:29,986 - INFO - Пользователь 857663686 выбрал цех: Цех 1
+2025-02-06 12:20:29,986 - INFO - Update id=619412522 is handled. Duration 937 ms by bot id=7735807460
+2025-02-06 12:20:30,011 - INFO - Пользователь 857663686 начал работу.
+2025-02-06 12:20:30,011 - INFO - Update id=619412526 is handled. Duration 93 ms by bot id=7735807460
+2025-02-06 12:20:30,052 - INFO - Пользователь 857663686 начал работу.
+2025-02-06 12:20:30,052 - INFO - Update id=619412525 is handled. Duration 264 ms by bot id=7735807460
+2025-02-06 12:20:31,441 - INFO - Пользователь 857663686 выбрал цех: Цех 1
+2025-02-06 12:20:31,442 - INFO - Update id=619412527 is handled. Duration 110 ms by bot id=7735807460
+2025-02-06 12:20:32,814 - INFO - Update id=619412528 is handled. Duration 93 ms by bot id=7735807460
+2025-02-06 12:20:34,177 - INFO - Update id=619412529 is handled. Duration 77 ms by bot id=7735807460
+2025-02-06 12:20:35,165 - INFO - Пользователь 857663686 выбрал цех: Цех 1
+2025-02-06 12:20:35,166 - INFO - Update id=619412530 is handled. Duration 139 ms by bot id=7735807460
+2025-02-06 12:20:36,054 - INFO - Update id=619412531 is handled. Duration 93 ms by bot id=7735807460
+2025-02-06 12:20:36,820 - INFO - Update id=619412532 is handled. Duration 93 ms by bot id=7735807460
+2025-02-06 12:21:16,838 - INFO - Пользователь 5890753417 выбрал цех: Цех 1
+2025-02-06 12:21:16,838 - INFO - Update id=619412533 is handled. Duration 141 ms by bot id=7735807460
+2025-02-06 12:21:17,042 - INFO - Пользователь 5890753417 начал работу.
+2025-02-06 12:21:17,042 - INFO - Update id=619412534 is handled. Duration 93 ms by bot id=7735807460
+2025-02-06 12:21:21,729 - INFO - Пользователь 5890753417 выбрал цех: Цех 1
+2025-02-06 12:21:21,729 - INFO - Update id=619412535 is handled. Duration 125 ms by bot id=7735807460
+2025-02-06 12:21:25,215 - INFO - Update id=619412536 is handled. Duration 78 ms by bot id=7735807460
